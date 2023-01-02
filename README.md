@@ -24,5 +24,5 @@ $ make test
 ## Run linter
 
 ```bash
-make linter
+make lint
 ```
