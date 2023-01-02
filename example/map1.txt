@@ -1,0 +1,5 @@
+Foo north=Bar west=Baz south=Qu-ux
+Bar south=Foo west=Bee east=Los-Angeles
+Los-Angeles west=Bar south=Irvine
+Irvine north=Los-Angeles east=Las-Vegas
+Las-Vegas west=Irvine
