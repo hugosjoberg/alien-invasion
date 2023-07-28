@@ -58,6 +58,7 @@ func (g *Game) moveAliens() {
 	for _, city := range g.cityMap {
 		cities := []string{}
 		if city.North != "" {
+			fmt.Println("going north")
 			cities = append(cities, city.North)
 		}
 		if city.South != "" {
